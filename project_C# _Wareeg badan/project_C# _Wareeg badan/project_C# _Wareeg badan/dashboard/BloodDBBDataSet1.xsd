@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BloodDBBDataSet1" targetNamespace="http://tempuri.org/BloodDBBDataSet1.xsd" xmlns:mstns="http://tempuri.org/BloodDBBDataSet1.xsd" xmlns="http://tempuri.org/BloodDBBDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BloodDBBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BloodDBBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.dashboard.Properties.Settings.GlobalReference.Default.BloodDBBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DonorViewTableAdapter" GeneratorDataComponentClassName="DonorViewTableAdapter" Name="DonorView" UserDataComponentName="DonorViewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BloodDBBConnectionString (Settings)" DbObjectName="BloodDBB.dbo.DonorView" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ID, Name, phone, Email, Address, Gender, age, Hospital, Department, Doctor, Blood_Type, donatedUnit, Region, Town, Registed_Date, birthdate FROM dbo.DonorView</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="Name" DataSetColumn="Name" />
+              <Mapping SourceColumn="phone" DataSetColumn="phone" />
+              <Mapping SourceColumn="Email" DataSetColumn="Email" />
+              <Mapping SourceColumn="Address" DataSetColumn="Address" />
+              <Mapping SourceColumn="Gender" DataSetColumn="Gender" />
+              <Mapping SourceColumn="age" DataSetColumn="age" />
+              <Mapping SourceColumn="Hospital" DataSetColumn="Hospital" />
+              <Mapping SourceColumn="Department" DataSetColumn="Department" />
+              <Mapping SourceColumn="Doctor" DataSetColumn="Doctor" />
+              <Mapping SourceColumn="Blood_Type" DataSetColumn="Blood_Type" />
+              <Mapping SourceColumn="donatedUnit" DataSetColumn="donatedUnit" />
+              <Mapping SourceColumn="Region" DataSetColumn="Region" />
+              <Mapping SourceColumn="Town" DataSetColumn="Town" />
+              <Mapping SourceColumn="Registed_Date" DataSetColumn="Registed_Date" />
+              <Mapping SourceColumn="birthdate" DataSetColumn="birthdate" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BloodDBBDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="BloodDBBDataSet1" msprop:Generator_DataSetName="BloodDBBDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DonorView" msprop:Generator_RowEvHandlerName="DonorViewRowChangeEventHandler" msprop:Generator_RowDeletedName="DonorViewRowDeleted" msprop:Generator_RowDeletingName="DonorViewRowDeleting" msprop:Generator_RowEvArgName="DonorViewRowChangeEvent" msprop:Generator_TablePropName="DonorView" msprop:Generator_RowChangedName="DonorViewRowChanged" msprop:Generator_RowChangingName="DonorViewRowChanging" msprop:Generator_TableClassName="DonorViewDataTable" msprop:Generator_RowClassName="DonorViewRow" msprop:Generator_TableVarName="tableDonorView" msprop:Generator_UserTableName="DonorView">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="Name" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_UserColumnName="Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="41" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="phone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_UserColumnName="phone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Email" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_UserColumnName="Email" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_UserColumnName="Address" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Gender" msprop:Generator_ColumnPropNameInRow="Gender" msprop:Generator_ColumnPropNameInTable="GenderColumn" msprop:Generator_ColumnVarNameInTable="columnGender" msprop:Generator_UserColumnName="Gender" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="age" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="age" msprop:Generator_ColumnPropNameInTable="ageColumn" msprop:Generator_ColumnVarNameInTable="columnage" msprop:Generator_UserColumnName="age" type="xs:int" minOccurs="0" />
+              <xs:element name="Hospital" msprop:Generator_ColumnPropNameInRow="Hospital" msprop:Generator_ColumnPropNameInTable="HospitalColumn" msprop:Generator_ColumnVarNameInTable="columnHospital" msprop:Generator_UserColumnName="Hospital" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Department" msprop:Generator_ColumnPropNameInRow="Department" msprop:Generator_ColumnPropNameInTable="DepartmentColumn" msprop:Generator_ColumnVarNameInTable="columnDepartment" msprop:Generator_UserColumnName="Department" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Doctor" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="Doctor" msprop:Generator_ColumnPropNameInTable="DoctorColumn" msprop:Generator_ColumnVarNameInTable="columnDoctor" msprop:Generator_UserColumnName="Doctor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="41" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Blood_Type" msprop:Generator_ColumnPropNameInRow="Blood_Type" msprop:Generator_ColumnPropNameInTable="Blood_TypeColumn" msprop:Generator_ColumnVarNameInTable="columnBlood_Type" msprop:Generator_UserColumnName="Blood_Type" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="donatedUnit" msprop:Generator_ColumnPropNameInRow="donatedUnit" msprop:Generator_ColumnPropNameInTable="donatedUnitColumn" msprop:Generator_ColumnVarNameInTable="columndonatedUnit" msprop:Generator_UserColumnName="donatedUnit" type="xs:int" minOccurs="0" />
+              <xs:element name="Region" msprop:Generator_ColumnPropNameInRow="Region" msprop:Generator_ColumnPropNameInTable="RegionColumn" msprop:Generator_ColumnVarNameInTable="columnRegion" msprop:Generator_UserColumnName="Region" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Town" msprop:Generator_ColumnPropNameInRow="Town" msprop:Generator_ColumnPropNameInTable="TownColumn" msprop:Generator_ColumnVarNameInTable="columnTown" msprop:Generator_UserColumnName="Town" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Registed_Date" msprop:Generator_ColumnPropNameInRow="Registed_Date" msprop:Generator_ColumnPropNameInTable="Registed_DateColumn" msprop:Generator_ColumnVarNameInTable="columnRegisted_Date" msprop:Generator_UserColumnName="Registed_Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="birthdate" msprop:Generator_ColumnPropNameInRow="birthdate" msprop:Generator_ColumnPropNameInTable="birthdateColumn" msprop:Generator_ColumnVarNameInTable="columnbirthdate" msprop:Generator_UserColumnName="birthdate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DonorView" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,20 @@
+C:\Users\hp\source\repos\loginpage\singupdesign\bin\Debug\singupdesign.exe.config
+C:\Users\hp\source\repos\loginpage\singupdesign\bin\Debug\singupdesign.exe
+C:\Users\hp\source\repos\loginpage\singupdesign\bin\Debug\singupdesign.pdb
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.Form1.resources
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.Properties.Resources.resources
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.exe
+C:\Users\hp\source\repos\loginpage\singupdesign\obj\Debug\singupdesign.pdb
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\bin\Debug\singupdesign.exe.config
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\bin\Debug\singupdesign.exe
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\bin\Debug\singupdesign.pdb
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.csproj.AssemblyReference.cache
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.Form1.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.Properties.Resources.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.csproj.GenerateResource.cache
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.csproj.CoreCompileInputs.cache
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.exe
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\singupdesign\obj\Debug\singupdesign.pdb

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\last project-wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\dashboard\\dashboard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\last project-wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\dashboard\\dashboard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\last project-wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\dashboard\\dashboard.csproj",
+        "projectName": "dashboard",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\last project-wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\dashboard\\dashboard.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\last project-wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\dashboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1586.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

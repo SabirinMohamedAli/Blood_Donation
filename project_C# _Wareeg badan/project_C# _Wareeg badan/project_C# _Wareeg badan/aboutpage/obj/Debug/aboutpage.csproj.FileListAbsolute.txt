@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\loginpage\aboutpage\bin\Debug\aboutpage.exe.config
+C:\Users\hp\source\repos\loginpage\aboutpage\bin\Debug\aboutpage.exe
+C:\Users\hp\source\repos\loginpage\aboutpage\bin\Debug\aboutpage.pdb
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.Form1.resources
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.Properties.Resources.resources
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.exe
+C:\Users\hp\source\repos\loginpage\aboutpage\obj\Debug\aboutpage.pdb

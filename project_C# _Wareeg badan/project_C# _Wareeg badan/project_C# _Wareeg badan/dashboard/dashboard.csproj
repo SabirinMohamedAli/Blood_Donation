@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3878B4EA-4B6D-4E86-A039-DE3F64FC58D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>dashboard</RootNamespace>
+    <AssemblyName>dashboard</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDSDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDSDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDBBDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BloodDBBDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bloodDonation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bloodDonation.Designer.cs">
+      <DependentUpon>bloodDonation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateUsers.Designer.cs">
+      <DependentUpon>CreateUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs" />
+    <Compile Include="DashDonors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashDonors.Designer.cs">
+      <DependentUpon>DashDonors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentReport.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DepartmentReport.Designer.cs">
+      <DependentUpon>DepartmentReport.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Departments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departments.Designer.cs">
+      <DependentUpon>Departments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Donate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Donate.Designer.cs">
+      <DependentUpon>Donate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonorReport.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DonorReport.Designer.cs">
+      <DependentUpon>DonorReport.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Forget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forget.Designer.cs">
+      <DependentUpon>Forget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainClass.cs" />
+    <Compile Include="Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Member.Designer.cs">
+      <DependentUpon>Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient.Designer.cs">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecepientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecepientReport.Designer.cs">
+      <DependentUpon>RecepientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecpientSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RecpientSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REportform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REportform.Designer.cs">
+      <DependentUpon>REportform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SingUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SingUp.Designer.cs">
+      <DependentUpon>SingUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserReport.Designer.cs">
+      <DependentUpon>UserReport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bloodDonation.resx">
+      <DependentUpon>bloodDonation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateUsers.resx">
+      <DependentUpon>CreateUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashDonors.resx">
+      <DependentUpon>DashDonors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartemntsV.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentReport.resx">
+      <DependentUpon>DepartmentReport.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departments.resx">
+      <DependentUpon>Departments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donate.resx">
+      <DependentUpon>Donate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonorReport.resx">
+      <DependentUpon>DonorReport.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonorReportView.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forget.resx">
+      <DependentUpon>Forget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient.resx">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Recepientrepoert.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecepientReport.resx">
+      <DependentUpon>RecepientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REportform.resx">
+      <DependentUpon>REportform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SingUp.resx">
+      <DependentUpon>SingUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserReport.resx">
+      <DependentUpon>UserReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BDSDatabaseDataSet.xsc">
+      <DependentUpon>BDSDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDSDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDSDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDSDatabaseDataSet.xss">
+      <DependentUpon>BDSDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet.xsc">
+      <DependentUpon>BloodDBBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet.xss">
+      <DependentUpon>BloodDBBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet1.xsc">
+      <DependentUpon>BloodDBBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet1.xss">
+      <DependentUpon>BloodDBBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet2.xsc">
+      <DependentUpon>BloodDBBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet2.xss">
+      <DependentUpon>BloodDBBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet3.xsc">
+      <DependentUpon>BloodDBBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet3.xss">
+      <DependentUpon>BloodDBBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet4.xsc">
+      <DependentUpon>BloodDBBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet4.xss">
+      <DependentUpon>BloodDBBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet5.xsc">
+      <DependentUpon>BloodDBBDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet5.xss">
+      <DependentUpon>BloodDBBDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet6.xsc">
+      <DependentUpon>BloodDBBDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet6.xss">
+      <DependentUpon>BloodDBBDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet7.xsc">
+      <DependentUpon>BloodDBBDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet7.xss">
+      <DependentUpon>BloodDBBDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet8.xsc">
+      <DependentUpon>BloodDBBDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="BloodDBBDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BloodDBBDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BloodDBBDataSet8.xss">
+      <DependentUpon>BloodDBBDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RecpientSet.xsc">
+      <DependentUpon>RecpientSet.xsd</DependentUpon>
+    </None>
+    <None Include="RecpientSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RecpientSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RecpientSet.xss">
+      <DependentUpon>RecpientSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6-removebg-preview %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6-removebg-preview %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blood_icon-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donors-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recip-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donors-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kkk-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donors-removebg-preview2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recip-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms">
+      <Version>2.0.4.6</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.Winforms">
+      <Version>150.1586.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\199-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospital_Care_Illustration__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Free_Vector___Flat_illustration_clothing_donation-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\900-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\87-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Premium_Vector___Illustration_of_people_donating_blood-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital9-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency-room-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registration-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donor-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recipient-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emergency-room-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DaruAlshiffa-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donor-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

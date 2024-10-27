@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "swxji1i+Q0AgPzvg6iFBsh/bKCZnIzQOdBdbz//UH/JpvbgXv6UHsSBRV4sl80YADYEOWLEGmmNQGrmEOwHoQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\last project-wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\project_C# _Wareeg badan\\dashboard\\dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1586.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1586.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1586.0 depends on Microsoft.SqlServer.Types (>= 14.0.0) but Microsoft.SqlServer.Types 14.0.0 was not found. An approximate best match of Microsoft.SqlServer.Types 14.0.314.76 was resolved.",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

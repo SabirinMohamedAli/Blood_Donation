@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\loginpage\logi\bin\Debug\logi.exe.config
+C:\Users\hp\source\repos\loginpage\logi\bin\Debug\logi.exe
+C:\Users\hp\source\repos\loginpage\logi\bin\Debug\logi.pdb
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.Form1.resources
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.Properties.Resources.resources
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.exe
+C:\Users\hp\source\repos\loginpage\logi\obj\Debug\logi.pdb

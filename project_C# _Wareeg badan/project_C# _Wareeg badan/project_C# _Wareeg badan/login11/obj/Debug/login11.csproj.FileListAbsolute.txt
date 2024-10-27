@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\loginpage\login11\bin\Debug\login11.exe.config
+C:\Users\hp\source\repos\loginpage\login11\bin\Debug\login11.exe
+C:\Users\hp\source\repos\loginpage\login11\bin\Debug\login11.pdb
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.Form1.resources
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.Properties.Resources.resources
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.exe
+C:\Users\hp\source\repos\loginpage\login11\obj\Debug\login11.pdb

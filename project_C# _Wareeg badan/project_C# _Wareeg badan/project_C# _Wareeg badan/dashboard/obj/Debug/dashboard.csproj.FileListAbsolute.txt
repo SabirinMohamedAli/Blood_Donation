@@ -1,0 +1,868 @@
+C:\Users\hp\source\repos\loginpage\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\source\repos\loginpage\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\source\repos\loginpage\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\source\repos\loginpage\dashboard\obj\Debug\dashboard.pdb
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\bin\Debug\dashboard.exe
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\bin\Debug\dashboard.pdb
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.exe
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.pdb
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.About.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Member.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\EngAdnan\Desktop\Project-Blood Donation Management Sys\c# project designs\loginpage\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\bin\Debug\dashboard.exe
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\bin\Debug\dashboard.pdb
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.About.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Member.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.exe
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.pdb
+C:\Users\zack\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\bin\Debug\dashboard.exe
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\bin\Debug\dashboard.pdb
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.About.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Member.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.exe
+C:\Users\EngAdnan\Desktop\mmmm\loginpage\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.About.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Member.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\Desktop\ourproject\loginpage\loginpage\dashboard\obj\Debug\dashboard.pdb
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\bin\Debug\dashboard.exe
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\bin\Debug\dashboard.pdb
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.About.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Member.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.exe
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.pdb
+C:\Users\zack\Downloads\PROJECC#\PROJECC#\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\bin\Debug\dashboard.pdb
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.About.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Member.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.exe
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.pdb
+C:\Users\zack\Downloads\C#_project\Project_C#\dashboard\obj\Debug\dashboard.frmprocess.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.frmprocess.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Recepient.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\RecepientReport.rdlc
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recepient.resx
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recepient.cs
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recepient.Designer.cs
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DepartemntsView.resources
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartemntsView.resx
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartemntsView.cs
+C:\Users\hp\Downloads\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartemntsView.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.frmprocess.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\RecipientV.rdlc
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.resx
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Recipient.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\hp\OneDrive\Desktop\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\RecipientV.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.resx
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.frmprocess.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Recipient.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\RecipientV.rdlc
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.resx
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.cs
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Recipient.Designer.cs
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.frmprocess.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Recipient.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\Desktop\Lastest_Project\project wareg badan\project wareg badan\project\C#_project 27\C#_project\Project_C#\dashboard\obj\Debug\dashboard.pdb
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Report1.rdlc
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.resx
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.cs
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.pdb
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.developers.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DonorDetail.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.frmprocess.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.exe
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.pdb
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.RecepientReport.resources
+C:\Users\zack\Downloads\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Recepientrepoert.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Recepientrepoert.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.RecepientReport.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\project wareg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Forget.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Recepientrepoert.rdlc
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Forget.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.RecepientReport.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\hhh\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Admin.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.AdminDashboard.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.bloodDonation.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Contact.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.CreateUsers.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DashDonors.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DepartmentReport.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Departments.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Donate.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.DonorReport.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Forget.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Form1.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Login.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Patient.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.RecepientReport.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.report.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.REportform.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.SingUp.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.Store.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartemntsV.rdlc
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReportView.rdlc
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Recepientrepoert.rdlc
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Report1.rdlc
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.resx
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.resx
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.cs
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DepartmentReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.cs
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\DonorReport.Designer.cs
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe.config
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.exe
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\dashboard.pdb
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Guna.UI2.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\obj\Debug\dashboard.UserReport.resources
+C:\Users\hp\OneDrive\Desktop\last project-wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\project_C# _Wareeg badan\dashboard\bin\Debug\User.rdlc
